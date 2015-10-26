@@ -2,7 +2,9 @@
 
 ## Text Weight
 **Bold**
+
 *Italics*
+
 **If you want to _italicize_ a word within bold context**
 
 ## Quotes
